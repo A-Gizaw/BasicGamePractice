@@ -1,5 +1,7 @@
-you dont see me
+This file should not be here
 
-i have more info
+Come one maynnnnnn
 
-i have less info
+how tf does this .gitignore work
+
+
